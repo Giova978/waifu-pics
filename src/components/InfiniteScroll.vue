@@ -1,5 +1,5 @@
 <template>
-    <div ref="bottom">Hola</div>
+    <div ref="bottom"></div>
 </template>
 
 <script setup lang="ts">
